@@ -1,4 +1,4 @@
-#  🥳 Welcome, Bienvenido, 欢迎, 歡迎, Bienvenue, ようこそ, Receber, Добро пожаловать, 환영합니다, მოგესალმებით, مرحباً, Ласкаво просимо, Bem-vindo, வணக்கம், स्वागत है, Selamat Datang, خوش آمدی, خوش آمدید, Merhaba, സ്വാഗതം👋
+#  Welcome👋
 
 ##  KryptoPass - Password Manager
 KryptoPass is a robust password manager designed to protect your confidential data with high-level security,
